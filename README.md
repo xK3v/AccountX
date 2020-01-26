@@ -1,8 +1,7 @@
 # AccountX - Bookkeeping software
-TODO
+Getting organized.
 
-## Purpose
-TODO
+Sometimes this is the most difficult task for individuals or teams. AccountX removes the time-consuming and complex path to be financially organized.
 
 ## Setup Guide
 ### Cloning & submodules
@@ -24,14 +23,17 @@ git clone --recurse-submodules https://github.com/xK3v/AccountX.git
 cd AccountX
 ```
 
-## Donation
-Buy us a coffee!
+### Follow instructions of submodules
+1. [Backend README.md](https://github.com/PeterBrain/AccountX-Backend/blob/master/README.md)
+2. [Frontend README.md](https://github.com/PeterBrain/AccountX-Frontend/blob/master/README.md)
+
+### Start using the application
 
 ## Contributors
 * [@xK3v](https://github.com/xK3v) - Kazianschuetz Kevin
 * [@DiOps](https://github.com/DiOps) - Koestinger Nikolaus
 * [@PeterBrain](https://github.com/PeterBrain) - Loecker Peter
-* [@GZEI](https://github.com/GZEI) - Gerhard Zeisler
+* [@GZEI](https://github.com/GZEI) - Zeisler Gerhard
 
 ---
 This project was set up for the "Software engineering selective" lecture at [FH JOANNEUM](https://www.fh-joanneum.at/) Graz.
